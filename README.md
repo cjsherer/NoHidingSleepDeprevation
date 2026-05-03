@@ -5,3 +5,6 @@ Sleep deprivation, defined as getting anything less than 7 hours of sleep, is ge
 
 ## Data Source
 Mukli, Peter, et al. "Effect of 24-hour sleep deprivation on cerebral hemodynamics and cognitive performance" (version 1.0.0). PhysioNet (2021). RRID:SCR_007345. https://doi.org/10.13026/669h-cx11
+
+## Usage Notes
+To successfully run the .ipynb file, the CSV file and the zip file containing all data from the study must be downloaded from the URL link provided in the data source into the working directory. The code is designed to unzip the file and extract the data. 
